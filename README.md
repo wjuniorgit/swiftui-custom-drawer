@@ -1,1 +1,2 @@
-# custom-swiftui-drawer
+# SwiftUI CustomDrawer
+> A customizable Drawer component for SwiftUI
